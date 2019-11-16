@@ -12,32 +12,10 @@ by Adelmo Santos
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-MODELO COM VARIOS LINKS
-
-<item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR orange](HD)[/COLOR] - DUBLADO[/B]<title>
-<link>plugin://plugin.video.gdrive?mode=streamURL$amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL$amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
-<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-MODELO GDRIVE DE APENAS UM LINK
-
-<item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR orange](HD)[/COLOR] - DUBLADO[/B]<title>
-<link>plugin://plugin.video.gdrive?mode=streamURL$amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
 MODELO UNIVERSAL DE APENAS UM LINK
 
 <item>
-<title>[B][COLOR lime]*NEW [/COLOR][/B][B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR orange](HD)[/COLOR] - DUBLADO[/B]<title>
+<title>[B][COLOR lime]*NEW [/COLOR][/B][B]A Forca 2 - Segundo Ato - [COLOR yellow](2019)[/COLOR][/B] - [B][COLOR orange](HD)[/COLOR] - DUBLADO[/B]<title>
 <link>http://cdnfe3.azureedge.net/RCFServer3/ondemand/AFRCA2SGNDATO.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9Se1buPgxxMF5iZ4tIK8AzT5td.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/tlSmpcCQQ9bFnrSKoJDsBiB5Yx3.jpg</fanart>
